@@ -1,3 +1,5 @@
+This is my Git repository
+
 # Introduction to Git and GitHub
 
 ## Simple Interest Calculator
